@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 1 line
 Second line
->>>>>>> 436631a (First commit from new_branch)
+3 line
